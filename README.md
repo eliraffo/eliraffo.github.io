@@ -4,18 +4,18 @@ A business and data analyst with a passion for utilizing information to create a
 Has experienced working within a fast-paced environment, building a team, learning complex business systems, communicating nuanced concepts, being a self-starter, and problem solving.
 
 # Professional Qualifications, Experience, and Projects:
-### [Resume](eliraffo.github.io/AlphaResume_ERaffo(2019).pdf)  |  [Portfolio Highlights](PortfolioPDFs/HighlightedPortfolio.pdf)
+### [Resume](eliraffo.github.io/Resume_ERaffo(2019).pdf)  |  [Portfolio Highlights](PortfolioPDFs/HighlightedPortfolio.pdf)
 
 ## Work Experience
 #### General Responsibilities
-- Answered stakeholder questions by performing database queries, data analysis, and data visualization to present useful information.
-- Improved functional areas by redesigning spreadsheets and introducing new procedures enabling work to be done more efficiently.
+- Performed database queries, data analysis, and data visualization to answer varying stakeholder questions about business operations.
+- Improved multiple functional areas by redesigning spreadsheets thereby decreasing future spreadsheet maintenance and improving efficiency.
 
-##### [Kingsford](PortfolioPDFs/KingsfordPortfolio.pdf)  |  [Bixler](PortfolioPDFs/BixlerPortfolio.pdf)  |  [Offsite Production](PortfolioPDFs/OSPPortfolio.pdf)
+##### [Wood Pellet Producer](PortfolioPDFs/WoodPelletPortfolio.pdf)  |  [Offsite Production Job](PortfolioPDFs/OSPjobPortfolio.pdf)  |  [Offsite Production Improvement](PortfolioPDFs/OSPPortfolio.pdf)
 
 #### Highlights
-- Operated as the inventory control specialist of a logistic reload which over 6 months moved over 55,000 tons of material.
-- Operated as the export specialist for international orders by managing documentation and movement of materials.
+- Operated as the inventory control specialist of a logistic reload which over 6 months which moved over 55,000 tons of material.
+- Operated as the export specialist for international orders by managing documentation, accounts payable/receivable, and movement of materials.
 
 ##### [International Export](PortfolioPDFs/ExportPortfolio.pdf)
 
@@ -39,15 +39,15 @@ Has experienced working within a fast-paced environment, building a team, learni
 # More About Me:
 Two characteristics I wish to highlight are my ability to solve complex problems, and my passion for learning new skills. 
 
-### Solving complex problems requires:
+### Solving complex problems with analytics requires:
 - Learning business systems by engaging with different functional areas and asking questions.
 - Analyzing data through imploring the use of SQL, Excel, Tableau, Python, and R.
-- Building a narrative from the qualitative and quantitative finds.
-- Communicating actionable steps and engaging stakeholders with visualizations and conversation.
+- Building a narrative from the qualitative and quantitative findings.
+- Communicating a story by engaging with stakeholders with the use of visualizations and conversations.
+- Develop and implement actionable solutions.
 <!-- ![left-aligned-image](image.jpg =250x205){: .align-right} -->
 
-### Current Progress and Future Steps to Working in:
-#### Data Science  |  Operations and Supply Chain  |  Project Management
+### [Professional Education and Certificates Timeline](PortfolioPDFs/Timeline_Certificates.pdf):
 
 ## Thank you:
-Thank you for your time, and if you would like to contact me please reach out for a conversation. You can find me on [LinkedIn](https://www.linkedin.com/in/eliraffo/), and my email is <eliraffo@gmail.com>. I always enjoy conversations that relate to data science, operations management, and leadership.
+Thank you for your time, and if you would like to contact me please reach out for a conversation. You can find me on [LinkedIn](https://www.linkedin.com/in/eliraffo/), and my email is <eliraffo@gmail.com>. I always enjoy conversations that relate to data science, operations and supply chain management, and leadership.
