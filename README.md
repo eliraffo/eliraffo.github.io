@@ -11,7 +11,7 @@ Has experienced working within a fast-paced environment, building a team, learni
 - Performed database queries, data analysis, and data visualization to answer varying stakeholder questions about business operations.
 - Improved multiple functional areas by redesigning spreadsheets thereby decreasing future spreadsheet maintenance and improving efficiency.
 
-##### [Wood Pellet Producer](PortfolioPDFs/WoodPelletPortfolio.pdf)  |  [Offsite Production Job](PortfolioPDFs/OSPjobPortfolio.pdf)  |  [Offsite Production Improvement](PortfolioPDFs/OSPPortfolio.pdf)
+##### [Agricultural Customer Producer](PortfolioPDFs/AgCustPortfolio.pdf)  |  [Offsite Production Job](PortfolioPDFs/OSPjobPortfolio.pdf)  |  [Offsite Production Improvement](PortfolioPDFs/OSPPortfolio.pdf)
 
 #### Highlights
 - Operated as the inventory control specialist of a logistic reload which over 6 months which moved over 55,000 tons of material.
@@ -22,6 +22,7 @@ Has experienced working within a fast-paced environment, building a team, learni
 #### Projects:
 - Conducted an analysis of the Delivery Department and proposed pricing which is estimated to increase department annual profit by $36,000.
   -  Created Visual models which were presented to Department Heads which intuitively displayed ~50,000 Profit/Loss combinations.
+  - Designed a spreadsheet which uses a Google Distance API to optimize the delivery price quoted to customers.
   
 - Implemented a redesigned Point-of-Sale interface at all Eugene Teahouse locations which resulted in:
   - Data that can measure Key Performance Indicators and be used in a Material Resource Planning system
@@ -29,6 +30,8 @@ Has experienced working within a fast-paced environment, building a team, learni
 ##### [Delivery Analysis](PortfolioPDFs/DeliveryPortfolio.pdf)  |  [Townshend's Tea](PortfolioPDFs/TownshendsPortfolio.pdf)
 
 ## Business Analytics Projects:
+##### Business Strategy and Planning  |
+##### Supply Chain Operations and Management  |   
 ##### Project and Operations Management Models  |  [Hershey's Optimization](eliraffo.github.io/OBA466)
 ##### Business Database Management Systems  |  [Video Game Database](eliraffo.github.io/OBA444)
 ##### Predictive Analytics  |  [Wine Classification](eliraffo.github.io/OBA410)
