@@ -1,21 +1,21 @@
-# Elijah Raffo  
+# Elijah Raffo:  
 A business and data analyst with a passion for utilizing information to create and implement impactful solutions. Completed analytic projects in business operations, large datasets, automation, and measuring key performance indicators. 
 
 Has experienced working within a fast-paced environment, building a team, learning complex business systems, communicating nuanced concepts, being a self-starter, and problem solving.
 
 # Professional Qualifications, Experience, and Projects:
-### [Resume](eliraffo.github.io/Resume_ERaffo(2019).pdf)
+## [Resume](eliraffo.github.io/Resume_ERaffo(2019).pdf)
 
 ## Work Experience
 #### General Responsibilities:
-- Performed database queries, data analysis, and data visualization to answer varying stakeholder questions about business operations.
-- Improved multiple functional areas by redesigning spreadsheets thereby decreasing future spreadsheet maintenance and improving efficiency.
+- Measured KPI’s by performing queries, data analysis, and data visualization to answer stakeholder questions regarding business operations.
+- Improved multiple functional areas by automating and improving spreadsheets.
 
 ##### [Agricultural Customer Producer](PortfolioPDFs/AgCustPortfolio.pdf)  |  [Offsite Production Job](PortfolioPDFs/OSPjobPortfolio.pdf)  |  [Offsite Production Improvement](PortfolioPDFs/OSPPortfolio.pdf)
 
 #### Highlights:
-- Operated as the inventory control specialist of a logistic reload which over 6 months which moved over 55,000 tons of material.
-- Operated as the export specialist for international orders by managing documentation, accounts payable/receivable, and movement of materials.
+- Operated as the inventory control specialist of a logistic reload which over 6 months moved 55,000 tons of material.
+- Operated as the export specialist for international orders by managing documentation, accounts payable/receivable, and movement of material.
 
 ##### [International Export](PortfolioPDFs/ExportPortfolio.pdf)
 
