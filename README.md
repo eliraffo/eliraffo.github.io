@@ -17,7 +17,7 @@ Has experienced working within a fast-paced environment, building a team, learni
 - Operated as the inventory control specialist of a logistic reload which over 6 months moved 55,000 tons of material.
 - Operated as the export specialist for international orders by managing documentation, accounts payable/receivable, and movement of material.
 
-##### [International Export](PortfolioPDFs/ExportPortfolio.pdf)
+##### [International Export](PortfolioPDFs/ExportPortfolio.pdf)  |  [Team Member Tuesday](https://www.facebook.com/LaneForestProducts/photos/pcb.2154183404640183/2154183297973527/?type=3&theater)
 
 ## Internship Projects:
 ##### Lane Forest Products  |  [Delivery Department Analysis](PortfolioPDFs/DeliveryPortfolio.pdf)
