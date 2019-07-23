@@ -18,8 +18,9 @@ This site is a place for visitors to learn more about me as a professional canid
 ##### [International Export](PortfolioPDFs/ExportPortfolio.pdf)  |  [Team Member Tuesday](https://www.facebook.com/LaneForestProducts/photos/pcb.2154183404640183/2154183297973527/?type=3&theater)
 
 ## Projects:
+
 | Title | Brief Description |
-| --- | --- |
+|---|---|
 | [Delivery Department Analysis](PortfolioPDFs/DeliveryPortfolio.pdf) | Lane Forest Products |
 | [Reimagining the POS system](PortfolioPDFs/TownshendsPortfolio.pdf) | Townshend's Tea |
 | [Coursework & Kalama Chemical Optimization](eliraffo.github.io/OBA477) | Supply Chain Operations and Management |
