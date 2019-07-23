@@ -1,34 +1,32 @@
 # Elijah Raffo:  
-A business and data analyst with a passion for utilizing information to create and implement impactful solutions. Completed analytic projects in business operations, large datasets, automation, and measuring key performance indicators. 
+This site is a place for visitors to learn more about me as a professional canidate. This site serves as a portal to my resume, projects, and experiences that help explain who I am as a canidate. Thank you for visiting this site, and feel free to contact me via <eliraffo@gmail.com> or [LinkedIn](https://www.linkedin.com/in/eliraffo/) if you'd like.
 
-Has experienced working within a fast-paced environment, building a team, learning complex business systems, communicating nuanced concepts, being a self-starter, and problem solving.
-
-# Professional Qualifications, Experience, and Projects:
+# Professional Qualifications, Projects, and Experience:
 ## [Resume](eliraffo.github.io/Resume_ERaffo(2019).pdf)
 
-## Work Experience
-#### General Responsibilities:
+## Work Experience:
+### Lane Forest - Operations Analyst Overview:
 - Measured KPI’s by performing queries, data analysis, and data visualization to answer stakeholder questions regarding business operations.
 - Improved multiple functional areas by automating and improving spreadsheets.
 
 ##### [Agricultural Customer Producer](PortfolioPDFs/AgCustPortfolio.pdf)  |  [Offsite Production Job](PortfolioPDFs/OSPjobPortfolio.pdf)  |  [Offsite Production Improvement](PortfolioPDFs/OSPPortfolio.pdf)
 
-#### Highlights:
+#### Major Responsibilities:
 - Operated as the inventory control specialist of a logistic reload which over 6 months moved 55,000 tons of material.
 - Operated as the export specialist for international orders by managing documentation, accounts payable/receivable, and movement of material.
 
 ##### [International Export](PortfolioPDFs/ExportPortfolio.pdf)  |  [Team Member Tuesday](https://www.facebook.com/LaneForestProducts/photos/pcb.2154183404640183/2154183297973527/?type=3&theater)
 
-## Internship Projects:
-##### Lane Forest Products  |  [Delivery Department Analysis](PortfolioPDFs/DeliveryPortfolio.pdf)
-##### Townshend's Tea  |  [Reimagining the POS system](PortfolioPDFs/TownshendsPortfolio.pdf)
-
-## Scholastic Projects:
-##### Supply Chain Operations and Management  |  [Coursework & Kalama Chemical Optimization](eliraffo.github.io/OBA477)
-##### Business Strategy and Planning  |  [Apple Case Study](eliraffo.github.io/BA453)
-##### Project and Operations Management Models  |  [Hershey's Optimization](eliraffo.github.io/OBA466)
-##### Business Database Management Systems  |  [Video Game Database](eliraffo.github.io/OBA444)
-##### Predictive Analytics  |  [Wine Classification](eliraffo.github.io/OBA410)
+## Projects:
+| Title | Brief Description |
+| --- | --- |
+[Delivery Department Analysis](PortfolioPDFs/DeliveryPortfolio.pdf) | Lane Forest Products
+[Reimagining the POS system](PortfolioPDFs/TownshendsPortfolio.pdf) | Townshend's Tea
+[Coursework & Kalama Chemical Optimization](eliraffo.github.io/OBA477) | Supply Chain Operations and Management
+[Apple Case Study](eliraffo.github.io/BA453) | Supply Chain Operations and Management
+[Hershey's Optimization](eliraffo.github.io/OBA466) | Project and Operations Management Models 
+[Video Game Database](eliraffo.github.io/OBA444) | Business Database Management Systems
+[Wine Classification](eliraffo.github.io/OBA410) | Predictive Analytics
 
 ## Letters of Recommendation:
 #### [Lane Forest Products](eliraffo.github.io/LOR_LaneForest.pdf)  |  [Townshend's Tea Company](eliraffo.github.io/LOR_Townshends.PDF)
