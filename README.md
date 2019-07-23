@@ -5,13 +5,13 @@ This site is a place for visitors to learn more about me as a professional canid
 ## [Resume](eliraffo.github.io/Resume_ERaffo(2019).pdf)
 
 ## Work Experience:
-### Lane Forest - Operations Analyst Overview:
+### Lane Forest - Operations Analyst Overview
 - Measured KPI’s by performing queries, data analysis, and data visualization to answer stakeholder questions regarding business operations.
 - Improved multiple functional areas by automating and improving spreadsheets.
 
 ##### [Agricultural Customer Producer](PortfolioPDFs/AgCustPortfolio.pdf)  |  [Offsite Production Job](PortfolioPDFs/OSPjobPortfolio.pdf)  |  [Offsite Production Improvement](PortfolioPDFs/OSPPortfolio.pdf)
 
-#### Major Responsibilities:
+#### Major Responsibilities
 - Operated as the inventory control specialist of a logistic reload which over 6 months moved 55,000 tons of material.
 - Operated as the export specialist for international orders by managing documentation, accounts payable/receivable, and movement of material.
 
@@ -20,13 +20,13 @@ This site is a place for visitors to learn more about me as a professional canid
 ## Projects:
 | Title | Brief Description |
 | --- | --- |
-[Delivery Department Analysis](PortfolioPDFs/DeliveryPortfolio.pdf) | Lane Forest Products
-[Reimagining the POS system](PortfolioPDFs/TownshendsPortfolio.pdf) | Townshend's Tea
-[Coursework & Kalama Chemical Optimization](eliraffo.github.io/OBA477) | Supply Chain Operations and Management
-[Apple Case Study](eliraffo.github.io/BA453) | Supply Chain Operations and Management
-[Hershey's Optimization](eliraffo.github.io/OBA466) | Project and Operations Management Models 
-[Video Game Database](eliraffo.github.io/OBA444) | Business Database Management Systems
-[Wine Classification](eliraffo.github.io/OBA410) | Predictive Analytics
+| [Delivery Department Analysis](PortfolioPDFs/DeliveryPortfolio.pdf) | Lane Forest Products |
+| [Reimagining the POS system](PortfolioPDFs/TownshendsPortfolio.pdf) | Townshend's Tea |
+| [Coursework & Kalama Chemical Optimization](eliraffo.github.io/OBA477) | Supply Chain Operations and Management |
+| [Apple Case Study](eliraffo.github.io/BA453) | Supply Chain Operations and Management |
+| [Hershey's Optimization](eliraffo.github.io/OBA466) | Project and Operations Management Models | 
+| [Video Game Database](eliraffo.github.io/OBA444) | Business Database Management Systems |
+| [Wine Classification](eliraffo.github.io/OBA410) | Predictive Analytics |
 
 ## Letters of Recommendation:
 #### [Lane Forest Products](eliraffo.github.io/LOR_LaneForest.pdf)  |  [Townshend's Tea Company](eliraffo.github.io/LOR_Townshends.PDF)
