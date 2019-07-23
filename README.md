@@ -20,7 +20,7 @@ This site is a place for visitors to learn more about me as a professional canid
 ## Projects:
 
 | Title | Brief Description |
-|---|---|
+| --- | --- |
 | [Delivery Department Analysis](PortfolioPDFs/DeliveryPortfolio.pdf) | Lane Forest Products |
 | [Reimagining the POS system](PortfolioPDFs/TownshendsPortfolio.pdf) | Townshend's Tea |
 | [Coursework & Kalama Chemical Optimization](eliraffo.github.io/OBA477) | Supply Chain Operations and Management |
