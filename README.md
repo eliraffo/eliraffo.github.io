@@ -23,9 +23,9 @@ This site is a place for visitors to learn more about me as a professional canid
 | --- | --- |
 | [Delivery Department Analysis](PortfolioPDFs/DeliveryPortfolio.pdf) | Lane Forest Products |
 | [Reimagining the POS system](PortfolioPDFs/TownshendsPortfolio.pdf) | Townshend's Tea |
-| [Coursework & Kalama Chemical Optimization](eliraffo.github.io/OBA477) | Supply Chain Operations and Management |
-| [Apple Case Study](eliraffo.github.io/BA453) | Supply Chain Operations and Management |
-| [Hershey's Optimization](eliraffo.github.io/OBA466) | Project and Operations Management Models | 
+| [Linear Optimization in R](eliraffo.github.io/ETM540) | Engineering & Technology Management |
+| [Apple Case Study](eliraffo.github.io/BA453) | Business Strategy & Planning |
+| [Hershey's Optimization](eliraffo.github.io/OBA466) | Project & Operations Management Models | 
 | [Video Game Database](eliraffo.github.io/OBA444) | Business Database Management Systems |
 | [Wine Classification](eliraffo.github.io/OBA410) | Predictive Analytics |
 
