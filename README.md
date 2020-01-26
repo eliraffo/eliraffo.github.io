@@ -21,10 +21,10 @@ This site is a place for visitors to learn more about me as a professional canid
 
 | Title | Brief Description |
 | --- | --- |
-| [Delivery Department Analysis](PortfolioPDFs/DeliveryPortfolio.pdf) | Lane Forest Products |
-| [Reimagining the POS system](PortfolioPDFs/TownshendsPortfolio.pdf) | Townshend's Tea |
+| [Delivery Analysis](PortfolioPDFs/DeliveryPortfolio.pdf) | Lane Forest Products |
+| [POS Redesign](PortfolioPDFs/TownshendsPortfolio.pdf) | Townshend's Tea |
 | [Linear Optimization in R](eliraffo.github.io/ETM540/LinearOptimizationR_PSU.pdf) | Engineering & Technology Management |
-| [Apple Case Study](eliraffo.github.io/BA453) | Business Strategy & Planning |
+| [Apple Case Study](eliraffo.github.io/BA453/BA453_GroupCaseAnaly_Apple_ERaffo.pdf) | Business Strategy & Planning |
 | [Hershey's Optimization](eliraffo.github.io/OBA466) | Project & Operations Management Models | 
 | [Video Game Database](eliraffo.github.io/OBA444) | Business Database Management Systems |
 | [Wine Classification](eliraffo.github.io/OBA410) | Predictive Analytics |
