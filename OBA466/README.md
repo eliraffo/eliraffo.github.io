@@ -14,6 +14,4 @@ Visually modeling the decision variables helped build the optimization model. Be
 
 The [complete excel model](https://github.com/eliraffo/eliraffo.github.io/blob/master/OBA466/Hersheys_Solver.xlsx) contains  over 45 decision variables, and accounts for constraints like production capacity, milk supply, cocoa supply, demand constraints, and labor force. Note that the revenue/loss variables used to calculate the profit are complete estimates.
 
-I would recommend reading our [paper](Hersheys_Paper.pdf) and our viewing [presentation](Hersheys_Presentation.pdf) to learn more about how Hershey's can maximize profit by adjusting their production process for Kisses and Hugs. 
-
-[Homepage](eliraffo.github.io).
+I would recommend reading our [paper](Hersheys_Paper.pdf) and our viewing [presentation](Hersheys_Presentation.pdf) to learn more about how Hershey's can maximize profit by adjusting their production process for Kisses and Hugs.
