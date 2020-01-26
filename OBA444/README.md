@@ -19,5 +19,3 @@ Once the ER diagram was complete we developed a Relational Schema normalized to 
 We would recommend that a parent purchasing a gift for their two children buy a Switch because of the high ratings, high amount of answered questions on Amazon by the supplier, and low prices for a 2nd controller.
 
 Our [paper](DB_Paper.pdf) and [presentation](DB_Presentation.pdf) describe in detail our insights, methodology, and applied skills.
-
-[Homepage](eliraffo.github.io)
