@@ -35,7 +35,7 @@ This site is a place for visitors to learn more about me as a professional canid
 | [Wine Classification](eliraffo.github.io/OBA410) | Predictive Analytics |
 
 ## Letters of Recommendation:
-#### [Lane Forest Products](PortfolioPDFs/LOR_LaneForest.PDF)  |  [Townshend's Tea Company](PortfolioPDFs/LOR_Townshends.PDF)
+### [Lane Forest Products](PortfolioPDFs/LOR_LaneForest.PDF)  |  [Townshend's Tea Company](PortfolioPDFs/LOR_Townshends.PDF)
 
 ## More About Me:  
 ### [Education and Certificates Timeline](PortfolioPDFs/Timeline_Certificates.pdf)
