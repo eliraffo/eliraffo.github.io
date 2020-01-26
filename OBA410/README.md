@@ -16,5 +16,3 @@ A large part of this project was to test different machine learning models, such
 Our [presentation](Wine_Presentation.pdf) and [paper](Wine_Paper.pdf) describe in better detail the findings and methodology of our project. 
 
 ![DecisionTree](DecisionTree.PNG)
-
-[Homepage](eliraffo.github.io)
