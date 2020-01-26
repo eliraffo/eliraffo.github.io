@@ -5,6 +5,12 @@ This site is a place for visitors to learn more about me as a professional canid
 ## [Resume](eliraffo.github.io/Resume_ERaffo(2020).pdf)
 
 ## Work Experience:
+
+### Lam Research - Program Manager Overview
+- Manage the development and implementation process of a company’s products and services. 
+- Coordinate cross-functional teams, focused on delivering new or upgrading existing products.
+- Analyze complex business problems and evaluates existing processes. Develop metrics that provide data for process measurement, identifying indicators for future improvement opportunities.
+
 ### Lane Forest - Operations Analyst Overview
 - Measured KPI’s by performing queries, data analysis, and data visualization to answer stakeholder questions regarding business operations.
 - Improved multiple functional areas by automating and improving spreadsheets.
@@ -12,8 +18,8 @@ This site is a place for visitors to learn more about me as a professional canid
 ##### [Agricultural Customer Producer](PortfolioPDFs/AgCustPortfolio.pdf)  |  [Offsite Production Job](PortfolioPDFs/OSPjobPortfolio.pdf)  |  [Offsite Production Improvement](PortfolioPDFs/OSPPortfolio.pdf)
 
 #### Major Responsibilities
-- Operated as the inventory control specialist of a logistic reload which over 6 months moved 55,000 tons of material.
-- Operated as the export specialist for international orders by managing documentation, accounts payable/receivable, and movement of material.
+- Coordinated a logistic reload which over 6 months moved 55,000 tons of material, resulting in becoming the customer’s primary service provider.
+- Managed the export of international orders by developing process mapping, managing documentation, and coordinating the flow of materials.
 
 ##### [International Export](PortfolioPDFs/ExportPortfolio.pdf)  |  [Team Member Tuesday](https://www.facebook.com/LaneForestProducts/photos/pcb.2154183404640183/2154183297973527/?type=3&theater)
 
