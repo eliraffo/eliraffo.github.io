@@ -32,10 +32,9 @@ This site is a place for visitors to learn more about me as a professional canid
 ## Letters of Recommendation:
 #### [Lane Forest Products](PortfolioPDFs/LOR_LaneForest.PDF)  |  [Townshend's Tea Company](PortfolioPDFs/LOR_Townshends.PDF)
 
-# More About Me:
-
-### [Professional Education and Certificates Timeline](PortfolioPDFs/Timeline_Certificates.pdf)
-### [Photos](eliraffo.github.io/Photos)
+# More About Me:  
+### [Education and Certificates Timeline](PortfolioPDFs/Timeline_Certificates.pdf)
+### [Photos of Volunteering and Experiences](eliraffo.github.io/Photos)
 
 ## Thank you:
 Thank you for your time, and if you would like to contact me please reach out for a conversation. You can find me on [LinkedIn](https://www.linkedin.com/in/eliraffo/), and my email is <eliraffo@gmail.com>. I welcome the chance to speak with people interested in my projects and experience.
