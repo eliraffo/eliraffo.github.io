@@ -2,7 +2,7 @@
 This site is a place for visitors to learn more about me as a professional canidate. This site serves as a portal to my resume, the projects, and the experiences that help explain who I am as a canidate. Thank you for visiting this site, and feel free to contact me via <eliraffo@gmail.com> or [LinkedIn](https://www.linkedin.com/in/eliraffo/) if you'd like.
 
 # Professional Qualifications, Projects, and Experience:
-### [Resume](eliraffo.github.io/Resume_ERaffo(2020).pdf)
+## [Resume](eliraffo.github.io/Resume_ERaffo(2020).pdf)
 
 ## Work Experience:
 ### Lane Forest - Operations Analyst Overview
