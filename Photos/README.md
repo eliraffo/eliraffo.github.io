@@ -1,5 +1,5 @@
 ## Volunteering:
 
-![](Photos/ERaffo.jpg)
-*2019 Vounteer as a Camp Counselor in Myrtle Beach, SC*
+![Youth Sahavas 2019](Photos/ERaffo.jpg)
+*Volunteering as a Youth Counselor in Myrtle Beach, SC*
 
