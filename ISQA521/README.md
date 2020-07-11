@@ -1,20 +1,28 @@
-Project Description:
-Attached is a zipped file which contains a Power BI dashboard, and the connected CSV files. To view the project, open the .pbix file title “Adventure Works Report”. The file should automatically connect (“path”) to data files within the zipped file.
+# Project Description:
+Attached is a zipped file which contains a Power BI dashboard, and the connected CSV files. To view the project, open the .pbix file: [Adventure Works Report](AdventureWorks_Report.pbix). The file should have all the data stored within it due to the fact that Power BI does not allow for relative paths at this time.
 This Adventure Works project was a guided project provided by Udemy:
-•	Microsoft Power BI - Up & Running with Power BI Desktop [Created by Maven Analytics, Chris Dutton, Aaron Parry]
+* [Microsoft Power BI - Up & Running with Power BI Desktop [Created by Maven Analytics, Chris Dutton, Aaron Parry]](https://www.udemy.com/course/microsoft-power-bi-up-running-with-power-bi-desktop/)
+
 Adventure Works is a fictionalized Cycling store which sells products globally. The company has provided Sales data for 2016 to 2018, customer data, return data, and product information data. The project comprised of 3 distinct phases:
-1.	Loading data into Power BI
-a.	Connect to the CSV
-b.	Clean and edit the table
-c.	Create table relationships
-2.	Adding measures and columns
-a.	The use of DAX formulas to create new columns and to create measures needed for future analytics
+1. Loading data into Power BI:
+    * Connect to the CSV
+    * Clean and edit the table
+    * Create table relationships
+2. Adding measures and columns
+    * The use of DAX formulas to create new columns and to create measures needed for future analytics
 3.	Creating visualizations
-a.	Create a dashboard with 3-pages: An Executive Summary, Product Details, and Customer Details
+    * Create a dashboard with 3-pages: An Executive Summary, Product Details, and Customer Details
+    
 The most interesting thing about Power BI is that the dashboard can be fully interacted with. The user can click around each visualization to create filters, and find insights within the data. You can hover, click, and drill down into the information to change how the dashboard looks.
-Power BI vs. Tableau vs. R
+
+
+## Power BI vs. Tableau vs. R
 All three visualization platforms have their pros & cons. The aim of this project is to showcase interactive visualization within Power BI, and dissect the differences between each platform for data visualization.
+
 Power BI and Tableau share the ability to link with data and create “posh” visualization with ease using a GUI. Tableau differs from Power BI because the visualization platform is optimized for one insight-filled graph at a time. Users can compile these graphs into stories, or create interactive dashboards. The ability to create a single graph, and have a GUI optimized to this process is a major benefit for creating visualizations for presentation or “printing”. Power BI differs from Tableau in the fact that the GUI is optimized towards placing many visualizations on a page for a dashboard. While each visualization my not be as “dialed” on Power BI, the ability to drill-down and through your data in Power BI within a Dashboard makes up for this shortcoming. When comparing visualizations side-by-side Tableau’s charts look cleaner visually, and the ability to edit the format on a one-on-one basis is better within Tableau; however, Power BI wins in the ability to interact and drill through data. The formatting, filtering, and interaction within Power BI is far ahead of the dashboard capabilities within Tableau.
+
 Power BI and R are two very different platforms. R is a statistical coding language which offers many packages for visualization; however, coding, arguably, has a steeper learning curve than a Microsoft Application. Visualizations in R using ggplot & lessR are great for data exploration; however, do not offer the “posh” look offered in Tableau and Power BI. The pro to visualizing in R is that large datasets can be explored and visualized much quicker than in Tableau or Power BI. If a user is looking to run a large dataset repeatedly for data exploration, R would be the clear choice. Power BI and R don’ necessarily compete in visualizations because each software serves different purposes; however, they do compete the relating, transforming, and cleaning steps taken before a dataset is ready to be visualized.
+
 The most interesting part of this project was learning how Power BI facilitates the data analytics process. Specifically, once a file is located, Power BI can facilitate pulling in the data, cleaning the data, and adding measures and new columns using DAX to help in visualizing the data. When interacting with Power BI, access the two tabs on the right called “data” and “model”. Within data you can see the individual data in the table. It is easy to add new columns using text, math, logic, or data functions that iterate down each row of data (like excel). Within model you can see how each table of information relates to each other. Power BI overpowers R in the ability to conduct the whole data lifecycle on one Microsoft platform. This finding took me by surprise. R and Python will always be the place for creating predictive analytics or on analyzing large datasets due to the computational strain this work provides; however, Power BI is actively adding features to compete against these general coding languages (for example, a machine learning Q&A feature which can create visualizations from typing questions).
+
 When comparing Power BI to Tableau, Power BI offers superior service on creating interactive visualizations which can be drilled-into through interaction with the dashboard. Tableau offers better one-off visualization which will be used to summarize a story in a more static format. When comparing Power BI to R, Power BI and R cannot be compared on visualizations. R offers speed for data exploration, while Power BI offers the ability to create a dashboard connected to many smaller files. Power BI offers tools to connect, relate, clean, and transform data within multiple file types. All with the aim of creating visualizations at the end. R has this ability, and will always beat Power BI, in computational speed. In other words, R is like a sports car. You will get to where you are going quick with R if you know how to drive; however, Power BI, much like a Honda Fit, can offer you many options within a city. Whether that be a smaller parking footprint, better fuel efficiency, or a smoother ride when speed is not a priority.
