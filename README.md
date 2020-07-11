@@ -23,6 +23,8 @@ This site is a place for visitors to learn more about me as a professional canid
 ##### [International Export](PortfolioPDFs/ExportPortfolio.pdf)  |  [Team Member Tuesday](https://www.facebook.com/LaneForestProducts/photos/pcb.2154183404640183/2154183297973527/?type=3&theater)
 
 ## Projects:
+
+
 | Title | Brief Description |
 | --- | --- |
 | [Delivery Analysis](PortfolioPDFs/DeliveryPortfolio.pdf) | Lane Forest Products |
@@ -34,6 +36,7 @@ This site is a place for visitors to learn more about me as a professional canid
 | [Hershey's Optimization](eliraffo.github.io/OBA466) | Project & Operations Management Models | 
 | [Video Game Database](eliraffo.github.io/OBA444) | Business Database Management Systems |
 | [Wine Classification](eliraffo.github.io/OBA410) | Predictive Analytics |
+
 
 ## Letters of Recommendation:
 ### [Lane Forest Products](PortfolioPDFs/LOR_LaneForest.PDF)  |  [Townshend's Tea Company](PortfolioPDFs/LOR_Townshends.PDF)
