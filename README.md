@@ -1,5 +1,5 @@
 # Elijah Raffo:  
-This site is a place for visitors to learn more about me as a professional canidate. This site serves as a portal to my resume, projects, and experiences. Thank you for visiting this site, and feel free to contact me via <eliraffo@gmail.com> or [LinkedIn](https://www.linkedin.com/in/eliraffo/) if you'd like. If any of the links below do not work please navigate to [eliraffo.github.io](eliraffo.github.io).
+This site is a place for visitors to learn more about me as a professional canidate. This site serves as a portal to my resume, projects, and experiences. Thank you for visiting this site, and feel free to contact me via <eliraffo@gmail.com> or [LinkedIn](https://www.linkedin.com/in/eliraffo/) if you'd like. If any of the links below do not work please navigate to "eliraffo.github.io".
 
 # Professional Qualifications, Projects, and Experience:
 ## [Resume](eliraffo.github.io/Resume_ERaffo(2020).pdf)
@@ -50,4 +50,4 @@ Managed the development programs for new deposition reactors which over 1-year f
 ## Thank you:
 Thank you for your time, and if you would like to contact me please reach out for a conversation. You can find me on [LinkedIn](https://www.linkedin.com/in/eliraffo/), and my email is <eliraffo@gmail.com>. I welcome the chance to speak with people interested in my projects and experiences.
 
-**The links on this site only work when you are on the [eliraffo.github.io](eliraffo.github.io) page. If you are on github.com page then the links above will not path to the correct links**
+**The links on this site only work when you are on the "eliraffo.github.io" page. If you are on "github.com" page then the links above will not path correctly**
