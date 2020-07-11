@@ -29,7 +29,7 @@ This site is a place for visitors to learn more about me as a professional canid
 | --- | --- |
 | [Delivery Analysis](PortfolioPDFs/DeliveryPortfolio.pdf) | Lane Forest Products |
 | [POS Redesign](PortfolioPDFs/TownshendsPortfolio.pdf) | Townshend's Tea |
-| [Dataquest.io](eliraffo.github.io/dataquest.io) | Dataquest.io Projects |
+| [Dataquest.io](eliraffo.github.io/dataquest.io) | Coding Projects |
 | [Power BI](eliraffo.github.io/ISQA521) | Data Visualization & Business Intelligence |
 | [Apple Case Study](eliraffo.github.io/BA453/BA453_GroupCaseAnaly_Apple_ERaffo.pdf) | Business Strategy & Planning |
 | [Linear Optimization in R](eliraffo.github.io/ETM540/LinearOptimizationR_PSU.pdf) | Engineering & Technology Management |
