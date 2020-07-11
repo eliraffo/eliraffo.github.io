@@ -23,30 +23,17 @@ This site is a place for visitors to learn more about me as a professional canid
 ##### [International Export](PortfolioPDFs/ExportPortfolio.pdf)  |  [Team Member Tuesday](https://www.facebook.com/LaneForestProducts/photos/pcb.2154183404640183/2154183297973527/?type=3&theater)
 
 ## Projects:
-
-<table>
-<tr><th> Business Operations Projects </th><th> Data Science and Analytics Projects </th></tr>
-<tr><td>
-
 | Title | Brief Description |
 | --- | --- |
 | [Delivery Analysis](PortfolioPDFs/DeliveryPortfolio.pdf) | Lane Forest Products |
 | [POS Redesign](PortfolioPDFs/TownshendsPortfolio.pdf) | Townshend's Tea |
-| [Apple Case Study](eliraffo.github.io/BA453/BA453_GroupCaseAnaly_Apple_ERaffo.pdf) | Business Strategy & Planning |
-| [Hershey's Optimization](eliraffo.github.io/OBA466) | Project & Operations Management Models | 
-
-</td><td>
-  
-| Title | Brief Description |
-| --- | --- |
 | [Dataquest.io](eliraffo.github.io/dataquest.io) | Dataquest.io Projects |
 | [Power BI](eliraffo.github.io/ISQA521) | Data Visualization & Business Intelligence |
+| [Apple Case Study](eliraffo.github.io/BA453/BA453_GroupCaseAnaly_Apple_ERaffo.pdf) | Business Strategy & Planning |
 | [Linear Optimization in R](eliraffo.github.io/ETM540/LinearOptimizationR_PSU.pdf) | Engineering & Technology Management |
+| [Hershey's Optimization](eliraffo.github.io/OBA466) | Project & Operations Management Models | 
 | [Video Game Database](eliraffo.github.io/OBA444) | Business Database Management Systems |
 | [Wine Classification](eliraffo.github.io/OBA410) | Predictive Analytics |
-
-</td></tr> </table>
-
 
 ## Letters of Recommendation:
 ### [Lane Forest Products](PortfolioPDFs/LOR_LaneForest.PDF)  |  [Townshend's Tea Company](PortfolioPDFs/LOR_Townshends.PDF)
