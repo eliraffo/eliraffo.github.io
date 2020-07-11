@@ -7,9 +7,11 @@ This site is a place for visitors to learn more about me as a professional canid
 ## Work Experience:
 
 ### Lam Research - Program Manager
-- Manage the development and implementation process of a company’s products and services. 
-- Coordinate cross-functional teams, focused on delivering new or upgrading existing products.
-- Analyze complex business problems and evaluates existing processes. Develop metrics that provide data for process measurement, identifying indicators for future improvement opportunities.
+Managed the development programs for new deposition reactors which over 1-year fought for new market share in the logic and memory space by hitting aggressive vision targets and customer timelines:
+- Coordinated a cross-functional team to identify and achieve a ≥25% BOM cost reduction on a multi-million dollar system
+- Led multiple programs and projects through the developmental process to meet timeline requirements (alpha, beta, and unrestricted release)
+- Drove cross-functional teams to highlight program/project risks and implement mitigation solutions
+
 
 ### Lane Forest - Operations Analyst
 - Measured KPI’s by performing queries, data analysis, and data visualization to answer stakeholder questions regarding business operations.
