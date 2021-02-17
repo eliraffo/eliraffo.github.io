@@ -4,22 +4,22 @@ This site is a place for visitors to learn more about me as a professional canid
 # Professional Qualifications, Projects, and Experience:
 ## [Resume](eliraffo.github.io/Resume_ERaffo(2021).pdf)
 
-## Work Experience:
+## Highlighted Work Experience:
 
 ### Lam Research - Program Manager
-Managed the development programs for new deposition reactors which over 1-year fought for new market share in the logic and memory space by hitting aggressive vision targets and customer timelines:
-- Coordinated a cross-functional team to identify and achieve a ≥25% BOM cost reduction on a multi-million dollar system
-- Led multiple programs and projects through the developmental process to meet timeline requirements (alpha, beta, and unrestricted release)
-- Drove cross-functional teams to highlight program/project risks and implement mitigation solutions
+Managed programs focused on metal deposition which over 7-months fought for new market share by hitting aggressive cost targets, technical requirements, and customer timelines:
+- Led multiple programs and projects through the development process (PDR) to meet business objectives and timelines requirements.
+- Implemented new technology and BoM cost reduction by working a cross-functionally areas from Eng., Supply Chain, and Manufacturing.
+- Coordinated mitigations strategies and communicated program risks and KPI’s to Stakeholders and Executives.
 
 
 ### Lane Forest - Operations Analyst
-- Measured KPI’s by performing queries, data analysis, and data visualization to answer stakeholder questions regarding business operations.
-- Improved multiple functional areas by automating and improving spreadsheets.
+- Measured KPI’s by performing queries, analyzing data, and vizualizing data to answer stakeholder questions regarding business operations.
+- Automated multiple functional areas by improving dashboards, simplifying spreadsheets, and re-desgning the transfer of information.
 
 ##### [Agricultural Customer Producer](PortfolioPDFs/AgCustPortfolio.pdf)  |  [Offsite Production Job](PortfolioPDFs/OSPjobPortfolio.pdf)  |  [Offsite Production Improvement](PortfolioPDFs/OSPPortfolio.pdf)
 
-- Coordinated a logistic reload which over 6 months moved 55,000 tons of material, resulting in becoming the customer’s primary service provider.
+- Automated a logistic reload which over 6-months moved 55,000 tons of material, resulting in becoming the customer’s primary service provider.
 - Managed the export of international orders by developing process mapping, managing documentation, and coordinating the flow of materials.
 
 ##### [International Export](PortfolioPDFs/ExportPortfolio.pdf)  |  [Team Member Tuesday](https://www.facebook.com/LaneForestProducts/photos/pcb.2154183404640183/2154183297973527/?type=3&theater)
