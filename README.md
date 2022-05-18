@@ -2,7 +2,7 @@
 This site is a place for visitors to learn more about me as a professional canidate. This site serves as a portal to my resume, projects, and experiences. Thank you for visiting this site, and feel free to contact me via <eliraffo@gmail.com> or [LinkedIn](https://www.linkedin.com/in/eliraffo/) if you'd like. If any of the links below do not work please navigate to "eliraffo.github.io".
 
 # Professional Qualifications, Projects, and Experience:
-## [Resume](eliraffo.github.io/Resume_ERaffo(2021).pdf)
+## [Resume](PortfolioPDFs/Resume_ERaffo(2021).pdf)
 
 ## Highlighted Work Experience:
 
