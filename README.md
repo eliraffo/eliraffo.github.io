@@ -1,6 +1,5 @@
 # Elijah Raffo:  
-This site is a place for visitors to learn more about me as a professional canidate.  
-This site serves as a portal to my Resume, Projects & Papers, Letters of Recommendation, and other Experiences or Files I'd like to showcase.  
+This site is a place for visitors to learn more about me as a professional canidate. This site serves as a portal to my Resume, Projects & Papers, Letters of Recommendation, and other Experiences or Files I'd like to showcase.  
 Thank you for visiting this site, and feel free to contact me via <eliraffo@gmail.com> or [LinkedIn](https://www.linkedin.com/in/eliraffo/) if you'd like. If any of the links below do not work please navigate to "eliraffo.github.io".
 
 # Professional Qualifications, Projects, and Experience:
