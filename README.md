@@ -1,5 +1,7 @@
 # Elijah Raffo:  
-This site is a place for visitors to learn more about me as a professional canidate. This site serves as a portal to my resume, projects, and experiences. Thank you for visiting this site, and feel free to contact me via <eliraffo@gmail.com> or [LinkedIn](https://www.linkedin.com/in/eliraffo/) if you'd like. If any of the links below do not work please navigate to "eliraffo.github.io".
+This site is a place for visitors to learn more about me as a professional canidate.  
+This site serves as a portal to my Resume, Projects & Papers, Letters of Recommendation, and other Experiences or Files I'd like to showcase.  
+Thank you for visiting this site, and feel free to contact me via <eliraffo@gmail.com> or [LinkedIn](https://www.linkedin.com/in/eliraffo/) if you'd like. If any of the links below do not work please navigate to "eliraffo.github.io".
 
 # Professional Qualifications, Projects, and Experience:
 ## [Resume](PortfolioPDFs/Resume_ERaffo(2021).pdf)
@@ -48,6 +50,6 @@ Managed programs focused on metal deposition which over 7-months fought for new 
 ### [Photos of Volunteering and Experiences](eliraffo.github.io/Photos)
 
 ## Thank you:
-Thank you for your time, and if you would like to contact me please reach out for a conversation. You can find me on [LinkedIn](https://www.linkedin.com/in/eliraffo/), and my email is <eliraffo@gmail.com>. I welcome the chance to speak with people interested in my projects and experiences.
+Thank you for your time, and if you would like to contact me please reach out for a conversation. You can find me on [LinkedIn](https://www.linkedin.com/in/eliraffo/), and my email is <eliraffo@gmail.com>. I welcome the chance to speak with anyone interested in whats been showcased on this site.
 
 **The links on this site only work when you are on the "eliraffo.github.io" page. If you are on "github.com" page then the links above will not path correctly**
