@@ -38,7 +38,7 @@ Managed programs focused on metal deposition which over 7-months fought for new 
 | [Linear Optimization in R](eliraffo.github.io/ETM540/LinearOptimizationR_PSU.pdf) | Engineering & Technology Management |
 | [Hershey's Optimization](eliraffo.github.io/OBA466) | Project & Operations Management Models | 
 | [Video Game Database](eliraffo.github.io/OBA444) | Business Database Management Systems |
-| [Wine Classification](eliraffo.github.io/OBA410) | Predictive Analytics |
+| [Wine Classification](../OBA410) | Predictive Analytics |
 
 
 ## Letters of Recommendation:
