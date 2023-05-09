@@ -36,9 +36,9 @@ Managed programs focused on metal deposition which over 7-months fought for new 
 | [Power BI](eliraffo.github.io/ISQA521) | Data Visualization & Business Intelligence |
 | [Apple Case Study](eliraffo.github.io/BA453/BA453_GroupCaseAnaly_Apple_ERaffo.pdf) | Business Strategy & Planning |
 | [Linear Optimization in R](eliraffo.github.io/ETM540/LinearOptimizationR_PSU.pdf) | Engineering & Technology Management |
-| [Hershey's Optimization](eliraffo.github.io/OBA466) | Project & Operations Management Models | 
-| [Video Game Database](eliraffo.github.io/OBA444) | Business Database Management Systems |
-| [Wine Classification](../OBA410) | Predictive Analytics |
+| [Hershey's Optimization](eliraffo.github.io/OBA466/) | Project & Operations Management Models | 
+| [Video Game Database](eliraffo.github.io/OBA444/) | Business Database Management Systems |
+| [Wine Classification](eliraffo.github.io/OBA410/) | Predictive Analytics |
 
 
 ## Letters of Recommendation:
