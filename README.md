@@ -31,7 +31,6 @@ Managed programs focused on metal deposition which over 7-months fought for new 
 | --- | --- |
 | [Delivery Analysis](../PortfolioPDFs/DeliveryPortfolio.pdf) | Lane Forest Products |
 | [POS Redesign](../PortfolioPDFs/TownshendsPortfolio.pdf) | Townshend's Tea |
-| [Dataquest.io](../Profitable.App.Profiles_App.Store.n.Google.Play.Markets_Guided.Project.ipynb) | Python Project |
 | [Power BI](../ISQA521/) | Data Visualization & Business Intelligence |
 | [Apple Case Study](../BA453/BA453_GroupCaseAnaly_Apple_ERaffo.pdf) | Business Strategy & Planning |
 | [Linear Optimization in R](../ETM540/LinearOptimizationR_PSU.pdf) | Engineering & Technology Management |
